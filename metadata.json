@@ -1,0 +1,7 @@
+{
+  "name": "Faaji Auto Care Services - Premium Automotive Website",
+  "description": "Premium automotive website for Faaji Auto Care Services in Alausa, Ikeja, Lagos, Nigeria. Auto repairs, diagnostics, electrical, A/C, parts, and vehicle sales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
